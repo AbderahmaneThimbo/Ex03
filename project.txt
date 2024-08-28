@@ -1,2 +1,3 @@
-Étape 1: Initialiser le projet
-Étape 2: Créer le dépôt Git
+Étape 1: Initialiser le depot 
+Étape 3: Configurer l'environnement de développement
+Étape 4: Installer les dépendances
