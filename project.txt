@@ -1,0 +1,2 @@
+Étape 1: Initialiser le projet
+Étape 2: Créer le dépôt Git
